@@ -1,5 +1,5 @@
 html {
-	font-family: sans-serif;
+	font-family: sans-serif; 
 }
 
 table {
@@ -7,7 +7,7 @@ table {
 	border: 2px solid #1a237e;
 	letter-spacing: 1px;
 	font-size: 0.8rem;
-}
+} 
 
 td,
 th {
