@@ -1,0 +1,20 @@
+/* 
+THE ONLY PROPERTIES YOU NEED:
+- display 
+- border properties
+- margin properties
+- padding properties
+- width & height
+- background-color
+- color
+- box sizing
+*/
+
+li {
+    display: inline-block;
+}
+
+#gallery img {
+    width: 300px;
+    height: 200px;
+}
